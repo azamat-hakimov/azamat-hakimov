@@ -1,10 +1,8 @@
-### Hi there 👋, Azamat Hakimov
-#### Skilled Java Developer
-![Skilled Java Developer](https://github.com/azamat-hakimov/azamat-hakimov/blob/main/backend-developer.png)
-
+# Azamat Hakimov
 I'm Azamat from Uzbekistan, a skilled website developer fluent in Java and MySQL. I thrive on creating user-friendly applications that streamline tasks. Let's team up and craft something extraordinary together!
 
-Skills: JAVA / MYSQL / SERVLET
+## Skills and Experience
+JAVA / MYSQL / SERVLET
 
 
 
