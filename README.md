@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Azamat Hakimov! 👋
 
-<!--
-**azamat-hakimov/azamat-hakimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I'm a 19-year-old Java Backend Developer.
+- 💻 Proficient in Java Servlets and MySQL Database.
+- 🌱 Currently diving deep into Java Spring framework and other advanced topics.
+- 🚀 Passionate about building robust web applications.
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- MySQL
+- Java Servlets
+- Java Spring Framework (Currently Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+- LinkedIn: [Azamat Hakimov](https://www.linkedin.com/in/azamathakimov/)
+- Email: [azamathakimov@example.com](mailto:azamathakimov@example.com)
+
+## Check Out My Work
+- [My Portfolio](https://github.com/yourusername)
+
+Feel free to connect with me and explore my projects!
