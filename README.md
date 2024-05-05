@@ -1,4 +1,4 @@
-# About me
+# About Me
 I'm Azamat from Uzbekistan, a skilled website developer fluent in Java and MySQL. I thrive on creating user-friendly applications that streamline tasks. Let's team up and craft something extraordinary together!
 
 ## Skills and Experience
