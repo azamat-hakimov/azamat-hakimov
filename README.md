@@ -1,5 +1,5 @@
 # About Me
-I'm Azamat from Uzbekistan, a skilled website developer fluent in Java and MySQL. I thrive on creating user-friendly applications that streamline tasks. Let's team up and craft something extraordinary together!
+I'm Azamat from Uzbekistan, a skilled Java developer fluent in Spring Boot and MySql Database. I thrive on creating user-friendly applications that streamline tasks. Let's team up and craft something extraordinary together!
 
 ## Skills and Experience
 JAVA / MYSQL / SERVLET / HIBERNATE / SPRING FRAMEWORK / SPRING BOOT
