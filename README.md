@@ -1,5 +1,5 @@
 # About Me
-Full Stack.
+Backend Dev.
 MERN, MEAN, SMART CONTRACT, ETHEREUM
 
 
