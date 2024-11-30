@@ -8,14 +8,21 @@ Hi there! I'm Azamat Hakimov, a Java Backend Developer dedicated to building rob
 
 ## Connect with Me
 
-Let's stay connected! You can find me on:
+Feel free to connect with me on:
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/azamat-hakimov)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/azamathakimov/)  
-
-Feel free to reach out, whether it's for collaborations, job opportunities, or just to chat about tech!
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/azamat-hakimov)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azamathakimov/)
 
 ---
+
+## Technologies & Tools
+
+- **Backend**: Java, Spring Boot, Hibernate
+- **Databases**: MySQL, PostgreSQL
+- **Version Control**: Git, GitHub
+- **Tools**: IntelliJ IDEA, Maven, Postman
+- **Other**: REST APIs, Microservices, Docker
+
 
 ## Technologies & Tools
 
